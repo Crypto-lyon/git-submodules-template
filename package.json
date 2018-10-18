@@ -1,0 +1,19 @@
+{
+  "name": "git-submodules-template",
+  "version": "1.0.0",
+  "description": "Simple submodule template using git ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crypto-lyon/git-submodules-template.git"
+  },
+  "author": "Bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypto-lyon/git-submodules-template/issues"
+  },
+  "homepage": "https://github.com/Crypto-lyon/git-submodules-template#readme"
+}

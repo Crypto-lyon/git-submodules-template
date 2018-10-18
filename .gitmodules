@@ -1,0 +1,6 @@
+[submodule "abi"]
+	path = abi
+	url = https://github.com/Crypto-lyon/git-submodule-A.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/Crypto-lyon/git-submodule-B.git
